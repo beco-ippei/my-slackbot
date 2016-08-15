@@ -1,0 +1,25 @@
+{
+  "name": "katos-bot",
+  "version": "0.0.1",
+  "description": "for family slack group",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/beco-ippei/katos-bot.git"
+  },
+  "author": "ippei Kato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beco-ippei/katos-bot/issues"
+  },
+  "homepage": "https://github.com/beco-ippei/katos-bot#readme",
+  "dependencies": {
+    "botkit": "0.0.5",
+    "coffee-script": "^1.10.0",
+    "request": "~2.67.0",
+    "docomo-api": "0.0.3"
+  }
+}
